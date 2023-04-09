@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap');
+
+body {
+  background-color: #121212;
+  font-family: 'JetBrains Mono', monospace;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+  color: #f9f6f6;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+div {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  padding: 0;
+}  
+ul {
+  padding-inline-start: 0 !important;
+}
+
+ul > li {
+  display: inline-block;
+  padding: 10px 10px;
+}
+
+img.profile-pic {
+  width: 150px;
+  height: 150px;
+  display: flex;
+  border-radius: 50%;
+  padding: 40px;
+}
+
+a {
+  outline: none;
+  text-decoration: none;
+  padding: 2px 1px 0;
+  font-weight: bold;
+}
+
+a:link {
+  color: #f9f6f6;
+}
+
+a:visited {
+  color: #f9f6f6;
+}
+
+a:hover {
+  border-bottom: 1px solid;
+  color: #00BA7F;
+}
+
+a:active {
+  color: #121212;
+}
+
+a[href^="https://bkishan.substack.com"] {
+  background: url('img/external-link-logo.png') no-repeat 100% 0;
+  background-size: 16px 16px;
+  padding-right: 19px;
+}
+
+a[href^="https://drive.google.com/file/d/1Vi0HfILhMNnazYsDcCOEtio_tke7l6gW/view?usp=sharing"] {
+  background: url('img/docLink-logo.png') no-repeat 100% 0;
+  background-size: 16px 16px;
+  padding-right: 19px;
+}
+
+a[href^="mailto:heykishan@protonmail.com"] {
+  background: url('img/mail-icon.png') no-repeat 100% 0;
+  background-size: 16px 16px;
+  padding-right: 19px;
+}
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  font-size: small;
+}
