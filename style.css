@@ -62,7 +62,7 @@ a:active {
   color: #121212;
 }
 
-a[href^="https://bkishan.substack.com"] {
+a[href^="https://heykishan.wordpress.com"] {
   background: url('img/external-link-logo.png') no-repeat 100% 0;
   background-size: 16px 16px;
   padding-right: 19px;
