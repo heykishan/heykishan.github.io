@@ -172,7 +172,6 @@ footer p {
         font-size: 18px;
     }
 }
-/* Add this block to the end of your styles.css file */
 
 .dark-mode .modal-content {
     background-color: #333;
@@ -184,12 +183,12 @@ footer p {
     color: #f5f5f5;
 }
 .profile .image-placeholder {
-    width: 200px; /* Adjust the size of the circular placeholder */
-    height: 200px; /* Adjust the size of the circular placeholder */
+    width: 200px;
+    height: 200px;
     background-color: #ddd;
     border-radius: 50%;
-    overflow: hidden; /* Ensure image doesn't overflow its container */
-    background-image: url('profle-image.jpg'); /* Load the profile image */
+    overflow: hidden;
+    background-image: url('profle-image.jpg');
     background-size: cover;
     background-position: center;
 }
