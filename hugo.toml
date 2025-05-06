@@ -1,0 +1,85 @@
+title = "Kishan's Blog"
+baseURL = "https://bkishan.com/"
+languageCode = "en-us"
+defaultContentLanguage = "en-gb"
+enableEmoji = true
+ignoreErrors = ["additional-script-loading-error"]
+theme = "hugo-blog-awesome"
+
+[services.googleAnalytics]
+id = "G-696Y779XZ6"
+
+[services.disqus]
+shortname = ""
+
+[markup.highlight]
+noClasses = false
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup.tableOfContents]
+startLevel = 2
+endLevel = 4
+ordered = false
+
+[Languages.en-gb]
+languageName = "English"
+languageCode = "en-gb"
+weight = 1
+
+[Languages.en-gb.menu]
+[[Languages.en-gb.menu.main]]
+pageRef = "/"
+name = "Home"
+url = "/"
+weight = 10
+
+[[Languages.en-gb.menu.main]]
+pageRef = "posts"
+name = "Posts"
+url = "/posts/"
+weight = 20
+
+[[Languages.en-gb.menu.main]]
+pageRef = "about"
+name = "About"
+url = "/about/"
+weight = 30
+
+[Languages.en-gb.params]
+sitename = "Kishan's Blog"
+defaultColor = "auto"
+description = "My Takes on Literature, Technology, Sports, Travel, Business, and Personal Stories."
+mainSections = ["posts"]
+toc = false
+tocOpen = false
+goToTop = true
+additionalScripts = ["js/custom.js", "js/custom-2.js"]
+dateFormat = ""
+rssFeedDescription = "summary"
+
+[Languages.en-gb.params.author]
+avatar = "avatar.jpg"
+intro = "Kishan's Blog"
+name = "Kishan"
+description = "My Takes on Literature, Technology, Sports, Travel, Business, and Personal Stories."
+
+[Languages.en-gb.params.webmanifest]
+name = "Kishan's Blog"
+short_name = "sitename"
+start_url = "/"
+theme_color = "#434648"
+background_color = "#fff"
+display = "standalone"
+
+[params.browserconfig]
+TileColor = "#2d89ef"
+
+[[params.socialIcons]]
+name = "bluesky"
+url = "https://bsky.app/profile/bkishan.bsky.social"
+
+[[params.socialIcons]]
+name = "signal"
+url = "https://signal.me/#eu/All7YiGvSuA9lyak2kDJWUXyNUNGEnkEbv_XE512xcEc_s17pxVP8qAj6WhW6mRe"

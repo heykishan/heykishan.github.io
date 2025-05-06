@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kishan&#39;s Blog</title>
+    <link>https://bkishan.com/</link>
+    <description>Recent content on Kishan&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 18 Feb 2025 17:09:30 +0530</lastBuildDate><atom:link href="https://bkishan.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Book Review: Zero to One by Peter Thiel</title>
+      <link>https://bkishan.com/posts/book-review-zero-to-one/</link>
+      <pubDate>Tue, 18 Feb 2025 17:09:30 +0530</pubDate>
+      
+      <guid>https://bkishan.com/posts/book-review-zero-to-one/</guid>
+      
+      <description>&lt;p&gt;my first&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://bkishan.com/posts/about/</link>
+      <pubDate>Tue, 18 Feb 2025 17:08:45 +0530</pubDate>
+      
+      <guid>https://bkishan.com/posts/about/</guid>
+      
+      <description>&lt;p&gt;&lt;strong&gt;Professionally:&lt;/strong&gt;
+Im a technical consultant at &lt;a href=&#34;https://ryewalk.com&#34;&gt;Ryewalk&lt;/a&gt; working on digital transformation projects with a focus on  Salesforce based solutions. Previously I&amp;rsquo;ve worked in simlar roles at &lt;a href=&#34;https://cloudsense.com&#34;&gt;CloudSense&lt;/a&gt; and &lt;a href=&#34;https://deloitte.com&#34;&gt;Deloitte&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Personally:&lt;/strong&gt;
+I do a little bit of everything here and there. Ive been a bibliophile for a while now, more books brought than read. My favorite genres are non-fiction (astronomy, physics, geopolitics, economics &amp;amp; business), and historical fiction thrillers.&lt;/p&gt;
+&lt;p&gt;Beyond books, I like to do visual astronomy &amp;amp; some theoretical astrophysics. I serve on the core team at &lt;a href=&#34;https://chennaiastronomyclub.org&#34;&gt;Chennai Astronomy Club&lt;/a&gt;.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
