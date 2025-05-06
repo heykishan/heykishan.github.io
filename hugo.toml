@@ -5,12 +5,16 @@ defaultContentLanguage = "en-gb"
 enableEmoji = true
 ignoreErrors = ["additional-script-loading-error"]
 theme = "hugo-blog-awesome"
+copyright = "© 2025 Kishan. All rights reserved."
 
 [services.googleAnalytics]
 id = "G-696Y779XZ6"
 
 [services.disqus]
 shortname = ""
+
+[services.RSS]
+limit = 20
 
 [markup.highlight]
 noClasses = false
@@ -58,11 +62,13 @@ goToTop = true
 additionalScripts = ["js/custom.js", "js/custom-2.js"]
 dateFormat = ""
 rssFeedDescription = "summary"
+showReadingTime = true
 
 [Languages.en-gb.params.author]
 avatar = "avatar.jpg"
 intro = "Kishan's Blog"
 name = "Kishan"
+email = "your-email@example.com"  # Replace with your actual email if you want
 description = "My Takes on Literature, Technology, Sports, Travel, Business, and Personal Stories."
 
 [Languages.en-gb.params.webmanifest]
@@ -83,3 +89,7 @@ url = "https://bsky.app/profile/bkishan.bsky.social"
 [[params.socialIcons]]
 name = "signal"
 url = "https://signal.me/#eu/All7YiGvSuA9lyak2kDJWUXyNUNGEnkEbv_XE512xcEc_s17pxVP8qAj6WhW6mRe"
+
+[[params.socialIcons]]
+name = "rss"
+url = "/index.xml"

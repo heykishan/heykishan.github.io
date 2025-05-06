@@ -6,12 +6,13 @@
     <description>Recent content on Kishan&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
+    <copyright>© 2025 Kishan. All rights reserved.</copyright>
     <lastBuildDate>Tue, 18 Feb 2025 17:09:30 +0530</lastBuildDate><atom:link href="https://bkishan.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Book Review: Zero to One by Peter Thiel</title>
       <link>https://bkishan.com/posts/book-review-zero-to-one/</link>
       <pubDate>Tue, 18 Feb 2025 17:09:30 +0530</pubDate>
-      
+      <author>your-email@example.com (Kishan)</author>
       <guid>https://bkishan.com/posts/book-review-zero-to-one/</guid>
       
       <description>&lt;p&gt;my first&lt;/p&gt;</description>
@@ -20,10 +21,10 @@
     
     <item>
       <title>About</title>
-      <link>https://bkishan.com/posts/about/</link>
+      <link>https://bkishan.com/about/</link>
       <pubDate>Tue, 18 Feb 2025 17:08:45 +0530</pubDate>
-      
-      <guid>https://bkishan.com/posts/about/</guid>
+      <author>your-email@example.com (Kishan)</author>
+      <guid>https://bkishan.com/about/</guid>
       
       <description>&lt;p&gt;&lt;strong&gt;Professionally:&lt;/strong&gt;
 Im a technical consultant at &lt;a href=&#34;https://ryewalk.com&#34;&gt;Ryewalk&lt;/a&gt; working on digital transformation projects with a focus on  Salesforce based solutions. Previously I&amp;rsquo;ve worked in simlar roles at &lt;a href=&#34;https://cloudsense.com&#34;&gt;CloudSense&lt;/a&gt; and &lt;a href=&#34;https://deloitte.com&#34;&gt;Deloitte&lt;/a&gt;.&lt;/p&gt;
